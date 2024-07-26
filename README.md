@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+I'm Mas'udin Nur Hidayat, you can call me idun!
+
+🔭 I’m currently working on my studies as a Information System students at Yogyakarta Open University
+🌱 I’m currently learning about data analytics and data science
+
 <!--
 **masudnh/masudnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
