@@ -2,7 +2,7 @@
 
 I'm Mas'udin Nur Hidayat, you can call me idun!
 
-🔭 I’m currently working on my studies as a Information System students at Yogyakarta Open University
+🔭 I’m currently working on my studies as a Information System students at Terbuka University
 🌱 I’m currently learning about data analytics and data science
 
 <!--
